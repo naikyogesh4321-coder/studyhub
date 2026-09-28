@@ -1,0 +1,6 @@
+{
+  "name": "StudyHub – Study Material Sharing & Peer Doubt Solving Portal",
+  "description": "College study material sharing, notes download, academic doubt solving, peer collaboration, and student dashboard portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
